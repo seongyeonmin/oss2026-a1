@@ -7,5 +7,8 @@
   "scripts": {
     "start": "node main.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
 }
