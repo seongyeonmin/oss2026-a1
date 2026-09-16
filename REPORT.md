@@ -129,8 +129,8 @@ $ node try.js
 
 사용했다면 프롬프트와, AI의 설명이 실제와 달랐던 부분을 적습니다.
 사용하지 않았다면 "사용하지 않음"이라고만 적으면 됩니다.
-ㄴ
-명령어 입력 중 발생한 오류(`No such file or directory`, `404 Not Found`) 원인 분석 및 해결할때 AI를 사용했습니다.
+
+- > 명령어 입력 중 발생한 오류(`No such file or directory`, `404 Not Found`) 원인 분석 및 해결할때 AI를 사용했습니다.
 
 ---
 
