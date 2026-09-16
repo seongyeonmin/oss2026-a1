@@ -38,7 +38,6 @@ dependencies = { builddependencies: '^0.0.1', 'prebuild-install': '2.1.0' }
 
 $ npm view <패키지이름> deprecated
 
-출력없음
 ```
 
 **출력을 보고 알게 된 것:**
@@ -57,6 +56,8 @@ $ npm view <패키지이름> deprecated
 
 
 **확인 결과:**
+
+```
 version = '0.12.2'
 time.modified = '2024-11-25T09:34:08.526Z'
 license = 'MIT'
@@ -68,8 +69,6 @@ dependencies = {
   'get-folder-size': '^4.0.0',
   'open-file-explorer': '^1.0.2'
 }
-```
-출력없음(정상)
 ```
 
 **출력을 보고 알게 된 것:**
@@ -89,11 +88,11 @@ dependencies = {
 
 
 **확인 결과:**
+
+```
 version = '4.18.1'
 time.modified = '2026-09-15T03:50:20.592Z'
 license = 'MIT'
-```
-
 ```
 
 **출력을 보고 알게 된 것:**
@@ -117,10 +116,8 @@ $ node try.js
 
 ## 막혔던 부분 (채점하지 않음)
 
-없었습니다.
-
 ```
-
+없었습니다.
 ```
 
 ---
